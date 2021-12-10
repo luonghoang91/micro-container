@@ -1,0 +1,10 @@
+footer {
+    width: 100%;
+    background-color: #e79652;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+  }
+.center-column {
+   padding-top: 10px;
+}
