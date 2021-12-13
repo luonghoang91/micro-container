@@ -1,9 +1,9 @@
 {
   "name": "root-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "Entry point and container application for a micro frontends.",
   "main": "index.js",
-  "author": "",
+  "author": "hoangl@mz.co.kr",
   "license": "ISC",
   "scripts": {
     "start": "PORT=3000 react-app-rewired start",
@@ -17,7 +17,7 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "^2.1.8"
   },
-  
+
   "devDependencies": {
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
